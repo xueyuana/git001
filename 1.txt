@@ -1,0 +1,8 @@
+tsdfadfasdfotal 0
+-rw-r--r-- 1 HE&XUE 197121 0 2月  13 21:26 1.txt
+drwxr-xr-x 1 HE&XUE 197121 0 2月  13 21:21 css/
+drwxr-xr-x 1 HE&XUE 197121 0 2月  13 21:25 js/
+total 1
+-rw-r--r-- 1 HE&XUE 197121 155 2月  13 21:26 1.txt
+drwxr-xr-x 1 HE&XUE 197121   0 2月  13 21:21 css/
+drwxr-xr-x 1 HE&XUE 197121   0 2月  13 21:25 js/
